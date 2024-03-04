@@ -19,5 +19,4 @@ public class Entity {
     private String firstName;
     private String lastName;
     private String email;
-    //test
 }
